@@ -1,7 +1,11 @@
-# 비트코인 자동매매
-
-upbit-autotrading
+# upbit-autotrading
+## 프로젝트 구조
 - /module 
   - upbit.py
-- buy.py 
-- sell.py
+    - buycoin_mp
+    - sellcoin_mp
+    - get_balance
+    - get_items
+
+### reference
+- https://technfin.tistory.com
